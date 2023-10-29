@@ -12,6 +12,7 @@
 
 <h2>Projeto Responsivo CELL / DESKTOP:</h2>
 
+
 <img src="https://github.com/FagnerLincoln/Projeto-Easy-Shopping/blob/master/img/easy%20cell.png?raw=true" />
-  
+  <h2> Acesse o link do projeto: <a href="https://fagnerlincoln.github.io/Projeto-Easy-Shopping/">Aqui<a/><h2>
   <img src="https://github.com/FagnerLincoln/Projeto-Easy-Shopping/blob/master/img/Cell%20desktop.png?raw=true"/> 
